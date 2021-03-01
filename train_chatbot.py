@@ -46,6 +46,8 @@ print (len(words), "unique lemmatized words", words)
 
 
 pickle.dump(words,open('words.pkl','wb'))
+pickle.dump(words,open('words.txt','wb'))
+git -m commit "Linea agregada"
 pickle.dump(classes,open('classes.pkl','wb'))
 
 # initializing training data
