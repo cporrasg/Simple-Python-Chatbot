@@ -1,4 +1,7 @@
 # Simple-Python-Chatbot
 
-Creating a simple Python chatbot using natural language processing and deep learning.
+- nombres: carlos alfredo
+- email: cporrasg@est.ups.edu.ec
+- materia: software libre
+- 
 
